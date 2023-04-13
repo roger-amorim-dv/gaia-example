@@ -48,3 +48,10 @@ See the documentation at [https://docs.gaia-app.io/](https://docs.gaia-app.io/ge
 * To create a local gaia local example, first be into in scripts dir
 * Now, execute '$bash build.sh'
 * To clean your environment, do '$bash cleanup.sh'
+
+## Examples
+
+*  git clone git@github.com:roger-amorim-dv/gaia-example.git
+*  cd scripts
+*  $bash build.sh -> for creating a local environment
+*  $bash cleanup.sh -> for creating a local environment
